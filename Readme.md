@@ -2,6 +2,8 @@
 
 This simple JavaScript project allows users to switch between predefined color schemes and generate a random background color. Below are the three main files for this project:
 
+## HTML Code
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -27,6 +29,8 @@ This simple JavaScript project allows users to switch between predefined color s
   </body>
 </html>
 ```
+
+## CSS Code
 
 ```css
 * {
@@ -105,6 +109,8 @@ body {
   cursor: pointer;
 }
 ```
+
+## JavaScript Code
 
 ```javascript
 const buttons = document.querySelectorAll(".buttons");
