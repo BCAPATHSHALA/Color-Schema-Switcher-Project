@@ -2,6 +2,10 @@
 
 This simple JavaScript project allows users to switch between predefined color schemes and generate a random background color. Below are the three main files for this project:
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Color-Schema-Switcher-Project/master/Random%20Color%20Switcher%20Project.png)
+
 ## HTML Code
 
 ```html
